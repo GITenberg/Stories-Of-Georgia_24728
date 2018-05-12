@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/868
     wikipedia: http://en.wikipedia.org/wiki/Joel_Chandler_Harris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24728#Stories-Of-Georgia
 gutenberg_bookshelf: United States
 gutenberg_issued: '2008-03-02'
 gutenberg_type: Text
